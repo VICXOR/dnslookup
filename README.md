@@ -18,9 +18,11 @@
 
 ## Getting Started
 <p align="center">
-Clone this repository, then you will be able to use dnslookup and modify the source code if needed. 
+Clone this repository, then you will be able to use dnslookup and modify the source code if needed.
 </p>
-
+<p>
+  you can get the wordlist at https://github.com/rbsec/dnscan/blob/master/subdomains-1000.txt
+  </p>
 ## Usage
  ```sh
 ./dnslookup wordlist domain
